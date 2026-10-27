@@ -23,4 +23,3 @@ Unity 게임 팀 프로젝트입니다.
 
 **2026 GDGOC Hackathon : ONE WAVE 장려상** · 2026.02
 
-TaskFit 팀 프로젝트에서 아이디어 제안과 서비스 기획을 담당했습니다.
