@@ -4,11 +4,6 @@
 
 ## 프로젝트
 
-### 데뷔 30초 만에
-
-MediaPipe의 손·얼굴 인식을 활용한 웹캠 게임입니다.
-현재 공개를 준비하고 있습니다.
-
 ### [Isolation](https://github.com/kingdoza/Isolation)
 
 Unity 게임 팀 프로젝트입니다.
